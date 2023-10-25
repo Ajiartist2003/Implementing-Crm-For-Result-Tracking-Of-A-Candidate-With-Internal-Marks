@@ -12,7 +12,7 @@
 
 # Team Member2 - Abish S 
 # NM Id - D733B5FC8E652E8804D4407A496914B7 
-# ailhead Url: https://www.salesforce.com/trailblazer/abishs
+# Tailhead Url: https://www.salesforce.com/trailblazer/abishs
 
 # Team Member3 - Shaji K J 
 # NM Id - C4C86A8D3835F028DFE4F239DADD4D91 
