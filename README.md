@@ -2,7 +2,6 @@
 Team NM Id- NM2023TMID01038
 Salesforce Project for Naan Mudhalvan
 
-**Trailhead Url**
 Team Leader - Aji Kumar P S
 NM Id - 8765C6504095F9397BF4236443B9B0AA
 Trailhead url: https://www.salesforce.com/trailblazer/ajikumar
