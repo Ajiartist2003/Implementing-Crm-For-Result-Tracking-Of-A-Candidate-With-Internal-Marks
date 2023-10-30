@@ -1,6 +1,6 @@
 # Implementing-Crm-For-Result-Tracking-Of-A-Candidate-With-Internal-Marks
 # Description:
-      The Candidate Internal Results Card project is a comprehensive Salesforce solution designed to streamline the process of recording, tracking, and managing candidate performance and results. Whether in an educational institution, recruitment agency, or HR department, this project serves as a powerful tool for maintaining an organized and up-to-date record of candidates' academic or professional achievements.
+   The Candidate Internal Results Card project is a comprehensive Salesforce solution designed to streamline the process of recording, tracking, and managing candidate performance and results. Whether in an educational institution, recruitment agency, or HR department, this project serves as a powerful tool for maintaining an organized and up-to-date record of candidates' academic or professional achievements.
 # Team NM Id- NM2023TMID01038 
 # Salesforce Project for Naan Mudhalvan
 # Demo Link
